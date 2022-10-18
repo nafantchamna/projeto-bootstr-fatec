@@ -1,0 +1,28 @@
+@media(min-width:576px) {
+    p {
+        color: blue;
+    }
+
+}
+
+@media(min-width:768px) {
+    p {
+        color: rgb(0, 255, 34);
+    }
+
+}
+
+@media(min-width:992px) {
+    p {
+        color: rgb(255, 0, 21);
+    }
+
+}
+
+@media(min-width:1200px) {
+    p {
+        color: rgb(255, 0, 149);
+    }
+
+}
+
